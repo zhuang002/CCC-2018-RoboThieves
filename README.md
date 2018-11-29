@@ -1,4 +1,4 @@
-# CCC-2018-RoboThieves
+# CCC-2018-RoboThieves (S3)
 
 Problem URL:
     https://dmoj.ca/problem/ccc18s3
